@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zawpaing95zp14-beep.github.io/sndsy-construction/sitemap.xml
